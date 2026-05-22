@@ -1,8 +1,10 @@
-# chaoshan
+# 潮汕chaoshan 文字系统
 Chinese Chaoshan  writing system
 # AI时代给予我们这一代潮人新的可能，也赋予我们这一代潮人新的使命。
 基于中国汉字系统、潮汕语音和潮汕古字、融合潮汕陶瓷、木雕、美食等文化元素，注入潮州、汕头、揭阳、饶平潮区以及全球潮人的特色，利用AI生成技术，创造的一套潮汕文字体系。
 是传承，也开拓，是我们这一代潮人心心念念的期望。
 # 该文字系统向全球潮人开放，采用认领的形式，大家凭借自己的理解、期望和创意共同构造属于潮人的文字系统，一起创造潮人新的历史。
 ![alt text](https://github.com/liupeifeng-rp/chaoshan/blob/main/image/01AI潮汕.jpg)
-# 可优先从《给阿嬷的情书》中挑选文字进行创造，并以图片的形式提交到/image/目录中，最好附上说明。
+# 可优先从《[给阿嬷的情书](https://github.com/liupeifeng-rp/chaoshan/blob/main/file/给阿嬷的情书.docx)》中挑选文字进行创造，并以图片的形式提交到/image/目录中，且附上说明。
+# 联系方式
+## 加ygliupeifeng微信，说明来意。
